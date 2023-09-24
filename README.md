@@ -10,11 +10,13 @@ This repository contains code and documentation for the SQLite Database Operatio
 
 ### Dataset 1: Stonybrook
 -Description: [The datset contains detailed information about medical procedures, charges, and negotiated rates for various healthcare services. It includes data on procedure codes, descriptions, types of services, and contracted rates with multiple insurance providers]
+
 -Purpose: To provide valuable insights into healthcare charges and insurance-provider relationships
 
 
 ### Dataset 2: st.-joseph-hospital_standardcharges
 -Description: [The dataset contains standardized healthcare pricing information for services provided by St. Joseph Hospital. This dataset provides transparency into the charges associated with various medical procedures, treatments, and services offered by the hospital. It includes details such as procedure codes, descriptions, pricing information, and insurance coverage.]
+
 -Purpose: This dataset is used to analyze healthcare pricing trends, insurance coverage, and to ensure pricing transparency for patients and healthcare stakeholders.
 
 
