@@ -25,17 +25,17 @@ This repository contains code and documentation for the SQLite Database Operatio
 In this assignment, we performed an exploratory data analysis (EDA) on the provided datasets. Here are some key observations and insights from our analysis:
 
 - **Dataset 1**:
--Description Diversity: The dataset includes a diverse set of descriptions for medical procedures, with 5449 unique values. While some descriptions are specific, others are more general, reflecting a range of medical services.
-
--Procedure Types: Procedures are categorized into two types: 'Outpatient' and 'Inpatient.' 'Outpatient' procedures are more common, with 6041 occurrences, while 'Inpatient' procedures appear 886 times.
+-The dataset includes a diverse set of descriptions for medical procedures, with 5449 unique values.
+-While some descriptions are specific, others are more general, reflecting a range of medical services.
+-Procedures are categorized into two types: 'Outpatient' and 'Inpatient.'
+-'Outpatient' procedures are more common, with 6041 occurrences, while 'Inpatient' procedures appear 886 times.
 
 - **Dataset 2**:
-- Package Description: A wide range of descriptions, such as 'Box,' 'Blister,' 'Syringe,' among others, underscores the variety in packaging types.
-Some descriptions, like 'Punchcard,' are less common, appearing only once in the dataset.
-
--Charged Quantity: '100 each' stands out as the most frequent charge quantity, with 2570 occurrences.
-The dataset includes diverse charge quantities, encompassing counts and milliliter measurements.
-Occasional quantities like 'Punchcard' suggest less conventional billing practices.
+-A wide range of descriptions, such as 'Box,' 'Blister,' 'Syringe,' among others, underscores the variety in packaging types.
+-Some descriptions, like 'Punchcard,' are less common, appearing only once in the dataset.
+-'100 each' stands out as the most frequent charge quantity, with 2570 occurrences.
+-The dataset includes diverse charge quantities, encompassing counts and milliliter measurements.
+-Occasional quantities like 'Punchcard' suggest less conventional billing practices.
 
 ## SQLite Database Setup
 
